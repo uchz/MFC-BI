@@ -1,1 +1,19 @@
-"venv/" 
+# Arquivos e pastas de ambiente virtual
+venv/
+.env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+
+# Configurações do sistema / IDE
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db

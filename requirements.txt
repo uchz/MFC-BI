@@ -1,0 +1,12 @@
+pandas
+streamlit
+matplotlib
+seaborn
+numpy
+xlrd
+openpyxl
+altair
+scikit-learn
+datetime
+streamlit_extras
+nbformat
